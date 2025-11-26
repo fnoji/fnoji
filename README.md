@@ -7,9 +7,9 @@ I focus on creating 3D-centric video content, particularly building and refining
     - Creating 3D animations fanart and video content.
 - 💼 **Work & Roles**:
     - **Member** of **HoYoCREATORS**.
-    - **Member** of **Wuthering Waves Coreators**.
+    - **Member** of **Wuthering Waves Creators**.
     - **Moderator** at **Genshin Impact Creators** (formerly HoYoCREATORS) Discord server (since 2025/01/07).
-    - **Admin** of **Hoyo Animation Creators** Discord server. / JP main server 
+    - **Admin** of **Hoyo Animation Creators** [Discord server](https://discord.gg/3p9cT4ajqy). / JP main server 
         - I collect and share official/fan-made 3D animations and behind-the-scenes info for Chinese NPR games.
         - I often answer 3D-related questions and share notes in this community.
     - I accepted and experience video production requests from game publishers and advertising agencies.
@@ -43,5 +43,5 @@ I focus on creating 3D-centric video content, particularly building and refining
 ---
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=f-noj&show_icons=true&theme=radical" alt="f-noj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fnoji&show_icons=true&theme=radical" alt="fnoji's GitHub stats" />
 </p>
